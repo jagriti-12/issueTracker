@@ -1,0 +1,5 @@
+{
+  "title": "First issue from API",
+  "description": "This is a test issue created using a POST request.",
+  "assignee": "Addy"
+}
